@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "jasmine-node": "1.0.26",
-    "coffeedoc-lm"
+    "coffeedoc-lm": "0.1.12"
   },
   "engine": "node >= 0.6",
   "scripts": {
