@@ -3,8 +3,7 @@ These function are used throughout the library. Many provide cross-platform (ser
 support for frequently-used functions.
 ###
 
-if exports?
-  _ = require "underscore"
+_ = require "./underscore"
 
 # this will eventually be i18n support
 # _ is already taken by underscore.js

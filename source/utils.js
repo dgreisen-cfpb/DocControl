@@ -10,9 +10,7 @@ support for frequently-used functions.
   var ValidationError, includes, interpolate, isEmpty, isEqual, strip, utils, _, _i,
     __slice = [].slice;
 
-  if (typeof exports !== "undefined" && exports !== null) {
-    _ = require("underscore");
-  }
+  _ = require("./underscore");
 
   _i = function(s) {
     return s;
